@@ -1,0 +1,3 @@
+base_dir: /home/montana/facebook
+environment: dev
+tpl_dir: 'montana'
